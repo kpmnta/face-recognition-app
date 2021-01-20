@@ -1,3 +1,7 @@
 .form {
     width: 700px;
 }
+
+input[placeholder] {
+    color: #c4a2fc;
+}
